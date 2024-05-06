@@ -4,4 +4,4 @@
 npm i 
 
 # To execute the files 
-npm start
+npm server.js
